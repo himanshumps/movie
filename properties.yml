@@ -1,0 +1,5 @@
+APP_NAME: rec-7-developer-v2
+MS_NAME: movie
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/movie.git
+SONAR_HOST_URL: http://sonar-rec-7-developer-v2-cicd.52.172.12.252.nip.io
